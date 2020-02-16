@@ -6,9 +6,9 @@ Personal projects and research results.
 
 ## Personal projects
 
-- :fa-code: [Xinering](https://github.com/Xinering)/**[cocoapi](https://github.com/Xinering/cocoapi)**: A COCO dataset decoding tool that supports decoding the zip format.
+- :point_right: [Xinering](https://github.com/Xinering)/**[cocoapi](https://github.com/Xinering/cocoapi)**: A COCO dataset decoding tool that supports decoding the zip format.
 - :notebook:[DataLoaderX](https://github.com/DataLoaderX)/**[datasetsome](https://github.com/DataLoaderX/datasetsome)**: A tutorial for [data set processing tools](https://github.com/xinetzone/loader) that support MNIST, FASHION-MNIST, Cifar10, Cifar100, and CASIA's offline and online handwritten Chinese character database.
 - :hand:[xinetzone](https://github.com/xinetzone)/**[loader](https://github.com/xinetzone/loader)**: Data processing tools support MNIST, FASHION-MNIST, Cifar10, Cifar100, and CASIA's offline and online handwritten Chinese character database.
-- :fa-comments: [xinetzone](https://github.com/xinetzone)/**[cv-actions](https://github.com/xinetzone/cv-actions)**: A community associated with computer vision.
-- :fa-code: [TensorAtom](https://github.com/TensorAtom)/**[Graph](https://github.com/TensorAtom/Graph)**: The goal is to build a Tensor-based computer graphics library that focuses on the field of computer vision. 
-- :fa-code: [xinetzone](https://github.com/xinetzone)/**[tkinter_action](https://github.com/xinetzone/tkinter_action)**: A hands-on tutorial on tkinter.
+- :point_right: [xinetzone](https://github.com/xinetzone)/**[cv-actions](https://github.com/xinetzone/cv-actions)**: A community associated with computer vision.
+- :point_right: [TensorAtom](https://github.com/TensorAtom)/**[Graph](https://github.com/TensorAtom/Graph)**: The goal is to build a Tensor-based computer graphics library that focuses on the field of computer vision. 
+- :point_right: [xinetzone](https://github.com/xinetzone)/**[tkinter_action](https://github.com/xinetzone/tkinter_action)**: A hands-on tutorial on tkinter.
